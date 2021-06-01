@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sandy_PXPAY</string>
+    <string name="pay">點我付款</string>
+    <string name="message">訊息夾</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="qrcode">您的交易QRCode</string>
+    <string name="my_message">我的訊息</string>
+</resources>
